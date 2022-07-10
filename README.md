@@ -18,24 +18,38 @@ AngularJS-powered HTML5 Markdown editor.
 
 As a hardworking and studious person , I am looking for challenging and career growth job opportunities, which will enhance my skills and learning abilities . A good placement will help me to use my logical and programming abilities to work well with the people in the organisation to achieve their goal
 
-<h5 align="left">Education</h5>
+<h4 align="left">Education</h4>
 
 - [2017-2018] : Passout 10th from S.s high school Navimumbai
 - [2018-2020] : Passout 12th from S.s high school and jr.college NaviMumbai
 - [2020-2023] : Currently I am  studing Bsc cs from pillai College of Arts , Commerce and Science
 
 
-<h5 align="left">Skills</h5>
+<h4 align="left">Skills</h4>
 
-speciality :Advance java
-Core java
-Advanced Java (Jsp and servlet, Jdbc)
-Framework (Spring and Hibernate)
-Rest API 
 
-Web development
-Html , CSS , Bootstraps 
-PHP , Mysql 
+<h6>Speciality :Java</h6>
+
+<ul>
+  <li>Core java</li>
+  <li>Advanced Java (Jsp and servlet, Jdbc)</li>
+  <li>Framework (Spring and Hibernate)</li>
+    <li>Rest API </li>
+</ul>  
+<br>
+
+<h6>Web development</h6>
+
+<ul>
+  <li>Html,CSS,Bootstraps </li>
+    <li>PHP,Mysql </li>
+</ul>  
+
+
+
+
+
+
 
 python
 Mongo DB, Sql lite ,SqlTkinter 
@@ -43,7 +57,18 @@ automations web services & Rest  Api
  Visualization 
 Flask And RestApi
 
+Hard Skills
+Data Structure (C++)
+Critical Thinking 
+fast learner 
+ Can cooperate well with the Team 
 
+ Additional Skills
+Dart & Flutter (UI)
+Android Development
+ UI Designing
+ Adobe XD & Figma
+ Prototyping
 
 
 > The overriding design goal for Markdown's
