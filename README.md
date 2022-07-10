@@ -18,20 +18,33 @@ AngularJS-powered HTML5 Markdown editor.
 
 As a hardworking and studious person , I am looking for challenging and career growth job opportunities, which will enhance my skills and learning abilities . A good placement will help me to use my logical and programming abilities to work well with the people in the organisation to achieve their goal
 
-<h6 align="left">Education</h6>
+<h5 align="left">Education</h5>
 
-- [2017-2018] - Passout 10th from S.s high school Navimumbai
-- [2018-2020] - Passout 12th from S.s high school and jr.college NaviMumbai
-- [2020-2023] - Currently I am  studding Bsc cs from pillai College of Arts , Commerce and Science
-
-
+- [2017-2018] : Passout 10th from S.s high school Navimumbai
+- [2018-2020] : Passout 12th from S.s high school and jr.college NaviMumbai
+- [2020-2023] : Currently I am  studing Bsc cs from pillai College of Arts , Commerce and Science
 
 
-  •  
+<h5 align="left">Skills</h5>
 
-  • 
- 
-   • 
+speciality :Advance java
+Core java
+Advanced Java (Jsp and servlet, Jdbc)
+Framework (Spring and Hibernate)
+Rest API 
+
+Web development
+Html , CSS , Bootstraps 
+PHP , Mysql 
+
+python
+Mongo DB, Sql lite ,SqlTkinter 
+automations web services & Rest  Api 
+ Visualization 
+Flask And RestApi
+
+
+
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
