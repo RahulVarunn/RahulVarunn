@@ -18,9 +18,17 @@ AngularJS-powered HTML5 Markdown editor.
 
 As a hardworking and studious person , I am looking for challenging and career growth job opportunities, which will enhance my skills and learning abilities . A good placement will help me to use my logical and programming abilities to work well with the people in the organisation to achieve their goal
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+
+- [AngularJS] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
+- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
+to Markdown converter
+- [jQuery] - duh
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
