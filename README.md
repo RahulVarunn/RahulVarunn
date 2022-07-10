@@ -1,5 +1,5 @@
 # 
-<h1 align="center">I'am Rahul Varun</h1>
+<h1 align="center">I'm Rahul Varun</h1>
 <h3 align="center">Java, Python & Backend developer<br>WHILE(!(SUCESSED==IMPROVING())</h3>
 
 
