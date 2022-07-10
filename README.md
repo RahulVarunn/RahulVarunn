@@ -10,7 +10,7 @@
 
 <a style="float:right" href="https://app.daily.dev/rahul_22"><img src="https://api.daily.dev/devcards/aa3d8a9270554a2eb3f7156729ea8b48.png?r=rfv" width="400" alt="8317 Rahul Varun's Dev Card"/></a>
 
-<a style="float:right" href="https://devcard.link/OHpGzG"><img src="https://api.daily.dev/devcards/aa3d8a9270554a2eb3f7156729ea8b48.png?r=rfv" width="400" alt="8317 Rahul Varun's Dev Card"/></a>
+<a style="float:right" href="https://devcard.link/OHpGzG"><img src="https://devcard.link/OHpGzG" width="400" alt="8317 Rahul Varun's Dev Card"/></a>
 
 ## About Me
 - currently learning **Machine Learning**
