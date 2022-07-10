@@ -1,8 +1,7 @@
 # 
 <h2 align="center">I'am Rahul varun</h2>
-<p align="center">Java, Python & Backend developer<br>gggg</p>
+<p align="center">Java, Python & Backend developer<br>WHILE(!(SUCESSED==IMPROVING())</p>
 
-<h4 align="center">WHILE(!(SUCESSED==IMPROVING())</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
