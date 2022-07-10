@@ -36,9 +36,8 @@ As a hardworking and studious person , I am looking for challenging and career g
   <li>Framework (Spring and Hibernate)</li>
     <li>Rest API </li>
 </ul>  
-<br>
 
-<h6>Web development</h6>
+<h6>Web development:</h6>
 
 <ul>
   <li>Html,CSS,Bootstraps </li>
@@ -46,29 +45,50 @@ As a hardworking and studious person , I am looking for challenging and career g
 </ul>  
 
 
+<h6>Python:</h6>
+
+<ul>
+  <li>Mongo DB, Sql lite ,SqlTkinter </li>
+    <li>automations web services & Rest  Api </li>
+    <li>Visualization</li>
+     <li>Flask And RestApi</li>
+</ul>  
+
+
+
+<h6>Hard Skills: </h6>
+
+<ul>
+  <li>Data Structure (C++) </li>
+    <li>Critical Thinking </li>
+    <li>fast learner </li>
+     <li>Can cooperate well with the Team</li>
+</ul> 
+
+
+ <h6>Additional Skills: </h6>
+
+<ul>
+  <li>Dart & Flutter (UI) </li>
+    <li>Android Development </li>
+    <li>UI Designing (Adobe XD ,Figma (Prototyping))</li>
+     <li>Can cooperate well with the Team</li>
+</ul> 
+
+ 
 
 
 
 
 
-python
-Mongo DB, Sql lite ,SqlTkinter 
-automations web services & Rest  Api 
- Visualization 
-Flask And RestApi
+  
 
-Hard Skills
-Data Structure (C++)
-Critical Thinking 
-fast learner 
- Can cooperate well with the Team 
 
- Additional Skills
-Dart & Flutter (UI)
-Android Development
- UI Designing
- Adobe XD & Figma
- Prototyping
+
+
+
+ 
+ 
 
 
 > The overriding design goal for Markdown's
