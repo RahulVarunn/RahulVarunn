@@ -19,7 +19,7 @@
 
 
 
-As a hardworking and studious person , I am looking for challenging and career growth job opportunities, which will enhance my skills and learning abilities . A good placement will help me to use my logical and programming abilities to work well with the people in the organisation to achieve their goal
+As a hardworking and studious person , I am looking for challenging and career growth job opportunities.
 
 <h4 align="left">Education</h4>
 
