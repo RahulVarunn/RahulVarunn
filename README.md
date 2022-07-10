@@ -9,14 +9,9 @@
 </p>
 
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
 
 ## About Me
+- currently learning **Machine Learning**
 
 As a hardworking and studious person , I am looking for challenging and career growth job opportunities, which will enhance my skills and learning abilities . A good placement will help me to use my logical and programming abilities to work well with the people in the organisation to achieve their goal
 
@@ -80,7 +75,10 @@ As a hardworking and studious person , I am looking for challenging and career g
  
 
 
-
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarunn&show_icons=true&locale=en&layout=compact" alt="rahulvarunn" width="360" height="200" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=rahulvarunn&show_icons=true&locale=en" alt="rahulvarunn" width="450" height="200" > 
+</p>
 
 
   
@@ -112,7 +110,7 @@ watch the results in the right.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulvarunn" alt="rahulvarunn" /></a> </p>
 
-- I’m currently learning **Machine Learning**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -125,7 +123,4 @@ watch the results in the right.
 
 
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarunn&show_icons=true&locale=en&layout=compact" alt="rahulvarunn" width="350" height="200" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=rahulvarunn&show_icons=true&locale=en" alt="rahulvarunn" width="450" height="200" > 
-</p>
+
