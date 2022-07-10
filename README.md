@@ -107,7 +107,7 @@ As a hardworking and studious person , I am looking for challenging and career g
  
 
 
-> THANKS FOR VIEWING MY PROFILE😶
+> 404 NOT FOUND 🛠
 
 
 
