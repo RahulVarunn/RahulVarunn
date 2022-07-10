@@ -37,8 +37,6 @@ As a hardworking and studious person , I am looking for challenging and career g
 
 <p dir="auto">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarunn&show_icons=true&locale=en&layout=compact" alt="rahulvarunn" width="360" height="200" align="right" >
-
-
 </p>
 
 
@@ -69,6 +67,10 @@ As a hardworking and studious person , I am looking for challenging and career g
 </ul>  
 
 
+<p dir="auto">
+<img src="https://github-readme-stats.vercel.app/api?username=rahulvarunn&show_icons=true&locale=en" alt="rahulvarunn" width="360" height="200" align="right" >
+</p>
+
 
 <h6>Hard Skills: </h6>
 
@@ -92,10 +94,7 @@ As a hardworking and studious person , I am looking for challenging and career g
  
 
 
-<p float="left">
-  
-  <img  src="https://github-readme-stats.vercel.app/api?username=rahulvarunn&show_icons=true&locale=en" alt="rahulvarunn" width="450" height="200" > 
-</p>
+
 
 
   
