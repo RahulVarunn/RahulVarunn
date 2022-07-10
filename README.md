@@ -8,7 +8,7 @@
 <a href="https://instagram.com/mr_rahul_varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_rahul_varun" height="30" width="30" /></a>
 </p>
 
-
+<a href="https://app.daily.dev/rahul_22"><img src="https://api.daily.dev/devcards/aa3d8a9270554a2eb3f7156729ea8b48.png?r=rfv" width="400" alt="8317 Rahul Varun's Dev Card"/></a>
 
 ## About Me
 - currently learning **Machine Learning**
@@ -22,7 +22,7 @@ As a hardworking and studious person , I am looking for challenging and career g
 - [2020-2023] : Currently I am  studing Bsc cs from pillai College of Arts , Commerce and Science
 
 
-<h4 align="left">Skills</h4>
+<h4 align="left">🛠 Skills</h4>
 
 
 <h6>Speciality :Java</h6>
