@@ -126,6 +126,6 @@ watch the results in the right.
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarunn&show_icons=true&locale=en&layout=compact" alt="rahulvarunn" width="250" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=rahulvarunn&show_icons=true&locale=en" alt="rahulvarunn" width="250" > 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarunn&show_icons=true&locale=en&layout=compact" alt="rahulvarunn" width="350" height="200" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=rahulvarunn&show_icons=true&locale=en" alt="rahulvarunn" width="450" height="200" > 
 </p>
