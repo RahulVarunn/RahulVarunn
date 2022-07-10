@@ -1,10 +1,11 @@
 # I'am Rahul varun
- WHILE(!(SUCESSED==IMPROVING())
-## _The Last Markdown Editor, Ever_
+WHILE(!(SUCESSED==IMPROVING())
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/mr_rahul_varun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_rahul_varun" height="30" width="40" /></a>
+</p>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
