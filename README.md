@@ -33,6 +33,9 @@ As a hardworking and studious person , I am looking for challenging and career g
 
 <h6>Speciality :Java</h6>
 
+<p dir="auto"><a href="https://app.daily.dev/rahul_22" rel="nofollow"><img src="https://api.daily.dev/devcards/aa3d8a9270554a2eb3f7156729ea8b48.png?r=rfv" width="200" align="right" alt="Sachin Malhotra's Dev Card" style="max-width: 100%;"></a></p>
+
+
 <ul>
   <li>Core java</li>
   <li>Advanced Java (Jsp and servlet, Jdbc)</li>
@@ -47,7 +50,6 @@ As a hardworking and studious person , I am looking for challenging and career g
     <li>PHP,Mysql </li>
 </ul>  
 
-<p dir="auto"><a href="https://app.daily.dev/rahul_22" rel="nofollow"><img src="https://api.daily.dev/devcards/aa3d8a9270554a2eb3f7156729ea8b48.png?r=rfv" width="200" align="right" alt="Sachin Malhotra's Dev Card" style="max-width: 100%;"></a></p>
 
 
 <h6>Python:</h6>
