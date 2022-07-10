@@ -12,6 +12,7 @@
 
 <a style="float:right" href="https://devcard.link/OHpGzG"><img src="https://devcard.link/OHpGzG" width="400" alt="8317 Rahul Varun's Dev Card"/></a>
 
+<p dir="auto"><a href="https://app.daily.dev/edorado93" rel="nofollow"><img src="https://github.com/edorado93/edorado93/raw/main/devcard.svg" width="200" align="right" alt="Sachin Malhotra's Dev Card" style="max-width: 100%;"></a></p>
 ## About Me
 - currently learning **Machine Learning**
 
