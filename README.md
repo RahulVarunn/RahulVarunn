@@ -1,6 +1,6 @@
 # 
 <h1 align="center">I'm Rahul Varun</h1>
-<h4 align="center"> Backend developer<br>WHILE(!(SUCESSED==IMPROVING())</h4>
+<h4 align="center"> <br>WHILE(!(SUCESSED==IMPROVING())</h4>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -15,17 +15,22 @@
 
 
 ## About Me
-- currently learning **Machine Learning**
-
+<!-- - currently learning **Machine Learning**
+ -->
 
 
 As a hardworking and studious person , I am looking for challenging and career growth job opportunities.
 
 <h4 align="left">Education</h4>
 
-- [2017-2018] : Passout 10th from S.s high school Navimumbai
+<!-- - [2017-2018] : Passout 10th from S.s high school Navimumbai
 - [2018-2020] : Passout 12th from S.s high school and jr.college NaviMumbai
-- [2020-2023] : Currently I am  studing Bsc cs from pillai College of Arts , Commerce and Science
+- [2020-2023] : Currently I am  studing Bsc cs from pillai College of Arts , Commerce and Science -->
+
+
+- 2017-2018 • 10th From S.S High School and jr.college Navi Mumbai
+- 2018-2020 • 12th From S.S High School and jr.college Navi Mumbai
+- 2020-2023 • Pillai College of Arts , Commerce and Science
 
 
 <h4 align="left">🛠 Skills</h4>
@@ -33,7 +38,6 @@ As a hardworking and studious person , I am looking for challenging and career g
 
 
 
-<h6>Speciality :Java</h6>
 
 <p dir="auto">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarunn&show_icons=true&locale=en&layout=compact" alt="rahulvarunn" width="360" height="200" align="right" >
@@ -41,29 +45,47 @@ As a hardworking and studious person , I am looking for challenging and career g
 
 
 
-<ul>
+<!-- <ul>
   <li>Core java</li>
   <li>Advanced Java (Jsp and servlet, Jdbc)</li>
   <li>Framework (Spring and Hibernate)</li>
     <li>Rest API </li>
-</ul>  
+</ul>   -->
 
-<h6>Web development:</h6>
+<h6>Frontend:</h6>
+
+
 
 <ul>
   <li>Html,CSS,Bootstraps </li>
-    <li>PHP,Mysql </li>
+    <li>React JS</li>
+  <li>Adobe XD , Figma , Prototyping</li>
 </ul>  
 
 
 
-<h6>Python:</h6>
+
+<h6>Backend:</h6>
 
 <ul>
-  <li>Mongo DB, Sql lite ,SqlTkinter </li>
-    <li>automations web services & Rest  Api </li>
-    <li>Visualization</li>
-     <li>Flask And RestApi</li>
+  <li>Python Flask , Django Framework </li>
+    <li>Creation and Implementation of Restful API </li>
+    <li>Selenium</li>
+     <li>Amazon Web Services</li>
+</ul>  
+
+
+
+<h6>database:</h6>
+
+<ul>
+  <li>Mongo DB
+</li>
+    <li>MySQL</li>
+    <li>ADBMS</li>
+     <li>PostgreSQL</li>
+       <li>Firebase</li>
+
 </ul>  
 
 
@@ -87,8 +109,7 @@ As a hardworking and studious person , I am looking for challenging and career g
 <ul>
   <li>Dart & Flutter (UI) </li>
     <li>Android Development </li>
-    <li>UI Designing (Adobe XD ,Figma (Prototyping))</li>
-     <li>Can cooperate well with the Team</li>
+  <li>Software Testing (Selenium)</li>
 </ul> 
 
  
