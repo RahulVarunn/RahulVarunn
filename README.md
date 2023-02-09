@@ -1,5 +1,6 @@
 # 
-<h1 align="center">I'm Rahul Varun</h1>
+<h1 align="center">I'm Rahul Varun  <span ><h6>  <a href="https://rahulvarunn.github.io/resume/" target="_blank">RESUME LINK </a></h6></span>
+</h1>
 <h4 align="center"> <br>WHILE(!(SUCESSED==IMPROVING())</h4>
 
 
@@ -9,6 +10,7 @@
 <a href="https://www.linkedin.com/in/rahul-varun-8a0b65244" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-varun-8a0b65244" height="30" width="40" /></a>
 
 </p>
+
 
 
 
